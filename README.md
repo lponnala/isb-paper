@@ -1,7 +1,7 @@
 
 #### Description
 
-This webpage contains supplementary materials for the manuscript titled "On the clustering of rare codons and its effect on translation" submitted to In Silico Biology.
+This repository contains supplementary materials for the manuscript titled "On the clustering of rare codons and its effect on translation" submitted to In Silico Biology.
 
 
 #### Instructions
