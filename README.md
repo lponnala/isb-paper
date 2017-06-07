@@ -12,5 +12,4 @@ The code has been tested using MATLAB version 7.6.0 (R2008a) on a Windows XP mac
 - evalclust.m : this script evaluates various features of the detected clusters
 - kscanstat.m, kscanstatmax.m, kscanstatmc.m : these functions perform the actual clustering procedure
 
-You need not run the evalEcoli.m script, since all of its outputs have been provided as .mat files. Look in the data/ folder.  
-To verify the results presented in the paper, simply run the script evalclust.m
+You need not run the evalEcoli.m script, since all of its outputs have been provided as .mat files. To verify the results presented in the paper, simply run the script evalclust.m
